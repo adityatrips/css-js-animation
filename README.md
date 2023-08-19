@@ -1,8 +1,8 @@
 # CSS and JS Animation Course
 
--   [x] Introduction
--   [x] Cookie Popup Animation
--   [x] Text Stagger Animation
+-   [x] <strike>Introduction</strike>
+-   [x] <strike>Cookie Popup Animation</strike>
+-   [x] <strike>Text Stagger Animation</strike>
 -   [ ] Micro SVG Animation
 -   [ ] Form Animation
 -   [ ] Final Project
