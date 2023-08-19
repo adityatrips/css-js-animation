@@ -1,0 +1,45 @@
+body {
+	margin: 0;
+	padding: 0;
+	display: flex;
+	flex-direction: column;
+	justify-content: start;
+	align-items: start;
+}
+
+section {
+	position: absolute;
+	height: 100vh;
+	width: 100%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+button {
+	padding: 1rem 2rem;
+	font-size: 1.5rem;
+	border: none;
+	color: #fff;
+	background: rgb(40, 40, 40);
+	transition: background 250ms ease-in-out;
+}
+
+button:hover {
+	background: rgb(74, 74, 74);
+}
+
+nav {
+	background: rgb(40, 40, 40);
+	min-height: 10vh;
+	width: 100%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	color: white;
+	transition: transform 0.5s ease-out;
+}
+
+.nav-slide {
+	transform: translateY(-100%);
+}
